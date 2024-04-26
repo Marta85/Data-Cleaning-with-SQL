@@ -1,4 +1,4 @@
-# Layoffs dataset
+-- Layoffs dataset
 
 
 -- SQL Project - Data Cleaning
