@@ -1,6 +1,6 @@
 # Layoffs dataset
 
-```sql
+
 -- SQL Project - Data Cleaning
 -- Datasource:(//www.kaggle.com/datasets/swaptr/layoffs-2022)
 
