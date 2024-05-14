@@ -1,7 +1,8 @@
--- Layoffs dataset
-
-
 -- SQL Project - Data Cleaning
+-- This is a guided project by Alexander Freberg from Data Analyst Bootcamp playlist in Youtube
+-- Link to his video :(https://www.youtube.com/watch?v=4UltKCnnnTA&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=19&t=2056s)
+
+-- Layoffs dataset
 -- Datasource:(//www.kaggle.com/datasets/swaptr/layoffs-2022)
 
 
